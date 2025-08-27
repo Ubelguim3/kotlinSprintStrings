@@ -11,3 +11,7 @@ fun task1() {
     greeting = "Добрый вечер, "
     println(greeting + name)
 }
+
+fun main() {
+    task1()
+}
