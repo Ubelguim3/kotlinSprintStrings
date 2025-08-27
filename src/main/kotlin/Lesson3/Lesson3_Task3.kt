@@ -15,3 +15,8 @@ fun task3() {
         $number * 9 = ${number * 9}
     """.trimIndent())
 }
+
+
+fun main() {
+    task3()
+}
